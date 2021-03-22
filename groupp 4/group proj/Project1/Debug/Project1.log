@@ -1,0 +1,6 @@
+﻿  mainloop.cpp
+  todoclassf.cpp
+C:\Users\Ahmed\source\repos\groupp 4\group proj\Project1\todoclassf.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahmed\source\repos\groupp 4\group proj\Project1\todoclassf.cpp(132,12): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Ahmed\source\repos\groupp 4\group proj\Debug\Project1.exe
